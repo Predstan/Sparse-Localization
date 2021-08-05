@@ -1,6 +1,6 @@
 # Overview
 This repository contains all the code used to complete the final project for the Localization course in Udacity's Self-Driving Car Nanodegree.
-<img src="overview.gif" width="128"/>
+<img src="overview.gif" width="50%" height="50%"/>
 <p align="center">
  <a src="overview.gif" alt="Overview" width="50%" height="50%"></a>
 </p>
