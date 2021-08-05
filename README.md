@@ -3,7 +3,6 @@ This repository contains all the code used to complete the final project for the
 
 <p align="center">
  <a src="overview.gif" alt="Overview" width="50%" height="50%"></a>
- <br>Qualitative results. (click for full video)
 </p>
 
 
